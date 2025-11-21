@@ -23,7 +23,7 @@ API ini menyediakan data harga emas dari berbagai brand di Indonesia, termasuk:
 Data diperbarui **setiap 6 jam**, diambil langsung dari website [Galeri 24](https://galeri24.co.id/).
 
 ## 🚀 Cara Penggunaan
-
+Halaman utama dapat dilihat disini [Main Page](https://emas.maulanar.my.id)
 Cara penggunaan dapat dilihat di [Docs](https://emas.maulanar.my.id/api/docs)
 
 ## 🎯 Manfaat API Ini
